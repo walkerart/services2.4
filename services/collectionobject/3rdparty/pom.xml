@@ -22,12 +22,12 @@
 		<NuxeoDocTypeName>CollectionObject</NuxeoDocTypeName>	
 		<CommonSchemaName>collectionobjects_common</CommonSchemaName>
 		<TenantPrefix>Tenant</TenantPrefix>
-		<Lifecycle>cs_default</Lifecycle>
 	</properties>
 	
     <modules>
     	<module>nuxeo-platform-cs-collectionobject</module>
-        <module>nuxeo-platform-collectionobject-lifesci</module>
+        <module>nuxeo-platform-collectionobject-finearts</module>
+        <module>nuxeo-platform-collectionobject-walkerart</module>
     </modules>
 
 </project>
